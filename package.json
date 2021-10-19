@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "node_create-file-every-second",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Create a file every second",
+  "main": "src/app.js",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
